@@ -113,7 +113,7 @@ def run_lexy():
 elif 'spotify' in command:
     talk('Opening Spotify...')
     # open spotify from my sytem
-    os.system(r'C:\desmy\AppData\Roaming\Spotify\Spotify.exe')
+    # os.system(r'path to your spotify apllication')
 
     # AI command removed
         # removed for security reasons
